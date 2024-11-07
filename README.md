@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kiranjithhardeepp/leetCode/tree/master/0013-roman-to-integer) |
+| [2580-circular-sentence](https://github.com/kiranjithhardeepp/leetCode/tree/master/2580-circular-sentence) |
 ## Database
 |  |
 | ------- |
