@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kiranjithhardeepp/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kiranjithhardeepp/leetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kiranjithhardeepp/leetCode/tree/master/0169-majority-element) |
+| [0792-binary-search](https://github.com/kiranjithhardeepp/leetCode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/kiranjithhardeepp/leetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kiranjithhardeepp/leetCode/tree/master/0177-nth-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/kiranjithhardeepp/leetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/kiranjithhardeepp/leetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
