@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kiranjithhardeepp/leetCode/tree/master/0013-roman-to-integer) |
+| [0319-bulb-switcher](https://github.com/kiranjithhardeepp/leetCode/tree/master/0319-bulb-switcher) |
 ## String
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kiranjithhardeepp/leetCode/tree/master/0136-single-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kiranjithhardeepp/leetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
